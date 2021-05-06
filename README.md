@@ -1,2 +1,2 @@
 # oop-api
-OOP design + API design
+OOP design + API design + Design patterns
